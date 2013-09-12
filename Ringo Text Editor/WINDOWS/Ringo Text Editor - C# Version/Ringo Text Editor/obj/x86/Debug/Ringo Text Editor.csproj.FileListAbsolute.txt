@@ -1,0 +1,10 @@
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\bin\Debug\Ringo Text Editor.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\bin\Debug\Ringo Text Editor.pdb
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\Ringo_Text_Editor.Form1.resources
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\Ringo_Text_Editor.Properties.Resources.resources
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\Ringo Text Editor.exe
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\Ringo Text Editor.pdb
+C:\Users\Denis\AppData\Local\Temporary Projects\Ringo Text Editor\obj\x86\Debug\Ringo_Text_Editor.AboutBox1.resources
